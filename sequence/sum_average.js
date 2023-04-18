@@ -1,0 +1,14 @@
+let a=Math.floor(Math.random()*100);
+let b=Math.floor(Math.random()*100);
+let c=Math.floor(Math.random()*100);
+let d=Math.floor(Math.random()*100);
+let e=Math.floor(Math.random()*100);
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
+console.log(e);
+let sum=a+b+c+d+e;
+let average=sum/5;
+console.log(sum);
+console.log(average);
